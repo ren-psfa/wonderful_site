@@ -1,0 +1,70 @@
+div {
+  margin: 0 auto;
+}
+
+div .container {
+  background-image: url(https://wonderful-wife.net/wp-content/themes/agent_tcd033/img/w_code/head_bg.jpg);
+  background-repeat: no-repeat;
+  height: 800px;
+  padding-top: 160px;
+}
+
+div .main-text {
+  width: 700px;
+  background-color: #ffffff;
+  border: black solid 6px;
+  border-radius: 12px;
+  text-align: center;
+}
+
+div .main-text .span-container {
+  margin-top: 50px;
+}
+
+div .main-text .span-container span {
+  display: block;
+  font-size: 13px;
+  line-height: 30px;
+}
+
+div .main-text .sub {
+  font-size: 16px;
+  padding-bottom: 10px;
+}
+
+div .main-text .main-title {
+  font-size: 36px;
+  line-height: 1px;
+  padding-top: 26px;
+}
+
+div .main-text p {
+  font-size: 22px;
+  line-height: 18px;
+}
+
+div .main-text .sub-title {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(60%, transparent), color-stop(40%, yellow));
+  background: linear-gradient(transparent 60%, yellow 40%);
+  display: inline-block;
+  margin-top: -15px;
+}
+
+div .main-text div {
+  margin: 16px 0 30px;
+}
+
+div .main-text div a {
+  background-color: #009bcf;
+  padding: 20px 180px;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+div .main-text div a:hover {
+  cursor: pointer;
+  background-color: #6ecbeb;
+  -webkit-transition: .8s;
+  transition: .8s;
+}
+/*# sourceMappingURL=main.css.map */
